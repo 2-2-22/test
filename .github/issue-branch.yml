@@ -1,0 +1,5 @@
+brnachName: '${issue.number}-${issue.title}'
+branches:
+  - label: '*'
+    prefix: feature/
+autoCloseIssue: true
