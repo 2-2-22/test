@@ -3,7 +3,7 @@
 
 function getUsers() {
   const url = 'https://www.naver.com';
-  console.log(url);
+  console.log(url, 123);
 }
 
 export default getUsers;
